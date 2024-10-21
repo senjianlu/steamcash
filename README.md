@@ -2,10 +2,10 @@
 公开的 Steam Cash 站点资料库。
 
 ## 站点收录结构
-- 饰品交易平台 (Skin Trading Platforms)
+- 饰品交易平台 (Skins Trading Platforms)
   - 中国大陆 (China)
   - 全球 (Global)
-- 饰品交换平台 (Skin Swap Platforms)
+- 饰品交换平台 (Skins Swap Platforms)
 - 玩家社区 (Community)
   - 中国大陆 (China)
   - 全球 (Global)
